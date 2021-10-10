@@ -1,3 +1,5 @@
+// webpack player
+
 let webpack=require('webpack');
 let path = require('path')
 //引用插件
